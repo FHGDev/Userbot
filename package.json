@@ -1,0 +1,15 @@
+{
+  "name": "Userbot",
+  "version": "1",
+  "description": "Userbot",
+  "main": "bot.js",
+  "author": "FHGDev",
+  "license": "MIT",
+  "scripts": {
+      "start": "node bot.js"
+  },
+    "dependencies": {
+      "discord.js": "^11.1.0",
+      "nodemon": "^1.12.1",
+    }
+  }
